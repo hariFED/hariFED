@@ -1,6 +1,6 @@
 # Hi there, I'm Hari! 👋
 
-I'm a **Software Developer (MERN)** with a keen interest in exploring **Web 3** technologies using **Solidity**.I'm an open-source contributor, and I'm working towards creating applications that truly add value.
+I'm a **Software Developer (MERN)** with a keen interest in exploring **Web 3** technologies using **Solana**.I'm an open-source contributor, and I'm working towards creating applications that truly add value.
 
 ## 🔭 What I'm Working On
 - **Exploring Web 3**: Diving deep into Solidity and decentralized applications.
